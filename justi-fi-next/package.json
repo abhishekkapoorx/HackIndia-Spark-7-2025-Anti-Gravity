@@ -29,7 +29,7 @@
     "lucide-react": "^0.503.0",
     "mongoose": "^8.14.0",
     "multer": "^1.4.5-lts.2",
-    "next": "15.3.1",
+    "next": "15.3.4",
     "next-connect": "^1.0.0",
     "next-themes": "^0.4.6",
     "react": "^18.0.0",
